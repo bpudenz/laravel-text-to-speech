@@ -1,5 +1,5 @@
 {
-    "name": "cion/laravel-text-to-speech",
+    "name": "bpudenz/laravel-text-to-speech",
     "description": "This package creates a shared API to easily use Text to Speech functionalities amongst different TTS providers.",
     "keywords": [
         "text-to-speech",
